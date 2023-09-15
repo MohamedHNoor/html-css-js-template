@@ -96,7 +96,7 @@ h4 {
 }
 p {
   margin-bottom: 1.25rem;
-  max-width: 45rem;
+  max-width: 40rem;
 }
 @media screen and (min-width: 800px) {
   h1 {
@@ -162,13 +162,13 @@ p {
   margin: 0 auto;
   max-width: 1170px;
 }
-@media screen and (min-width: 576px) {
+/* @media screen and (min-width: 576px) {
   .section-center {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     column-gap: 4rem;
   }
-}
+} */
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
